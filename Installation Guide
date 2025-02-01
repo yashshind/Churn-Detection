@@ -1,0 +1,5 @@
+Create vitrual Environment:
+  python -m venv venv
+
+Intsall Python libraries:
+  pip install pandas numpy scikit-learn matplotlib seaborn streamlit openpyxl
